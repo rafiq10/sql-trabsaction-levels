@@ -1,3 +1,8 @@
+# TSQL ISOLATION LEVEL
+
+*Inspired by:*
+[Source:](https://www.sqlservercentral.com/articles/isolation-levels-in-sql-server "isolation lavels")
+## INTRO
 Isolation levels are used to define the degree to which one transaction must be isolated from resource or data modifications made by other concurrent transactions
 
 - Only one of the isolation level options can be set at a time, and it remains set for that connection until it is explicitly changed
